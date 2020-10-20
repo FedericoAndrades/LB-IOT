@@ -3,7 +3,7 @@
     {
       "name": "LB - IOT",
       "maintainer": "FA",
-      "websiteURL": "https://github.com/FedericoAndrades/LB-IOT/blob/main/package_LB_IOT_index.json",
+      "websiteURL": "https://github.com/FedericoAndrades/",
       "email": "federico.andrades@gmail.com",
       "help": {
         "online": ""
@@ -14,7 +14,7 @@
           "architecture": "samd",
           "version": "2.0.6",
           "category": "Contributed",
-          "url": "https://localhost/IOT/packages.zip",
+          "url": "https://github.com/FedericoAndrades/LB-IOT/blob/main/packages.zip",
           "archiveFileName": "packages.zip",
           "checksum": "",
           "help": {
