@@ -14,9 +14,9 @@
           "architecture": "samd",
           "version": "2.0.6",
           "category": "Contributed",
-          "url": "https://github.com/FedericoAndrades/LB-IOT/raw/main/release/LB-IOT-Arduino.zip",
-          "archiveFileName": "LB-IOT-Arduino.zip",
-          "checksum": "SHA-256:5bf47ad7e9e581258649b14f00fdffd6f5a4c2c6a01bf8de630a243bff5b92cc",
+          "url": "https://github.com/FedericoAndrades/LB-IOT/raw/main/release/LB-IOT-2.0.6.zip",
+          "archiveFileName": "LB-IOT-2.0.6.zip",
+          "checksum": "SHA-256:f950ce8f712c419e1207a894acbbfab22d4c97686c63c3f1958b0a06a3e14620",
           "help": {
             "online": ""
           },
