@@ -45,12 +45,12 @@
             {
               "packager": "LB-IOT-Arduino",
               "name": "bossac",
-              "version": "1.0.0-SAM-1"
+              "version": "1.0.0-electroniccats-1"
             },
             {
               "packager": "LB-IOT-Arduino",
               "name": "CMSIS-Atmel",
-              "version": "1.0.0-SAM-1"
+              "version": "1.0.0-electroniccats-1"
             }
           ]
         }
