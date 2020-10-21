@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "IOT Boards",
+          "name": "IOT Boards SAM",
           "architecture": "samd",
           "version": "2.0.6",
           "category": "Contributed",
