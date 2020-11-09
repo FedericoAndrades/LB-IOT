@@ -1,16 +1,14 @@
 {
-  "packages":
-  [
+  "packages": [
     {
       "name": "IOT - SAMD21",
       "maintainer": "FA",
-      "websiteURL": "https://github.com/AtmelUniversityFrance/atmel-samd21-xpro-boardmanagermodule/wiki",
-      "help":
-      {
+      "websiteURL": "https://github.com/FedericoAndrades/LB-IOT",
+      "email": "federico.andrades@gmail.com",
+      "help": {
         "online": "https://github.com/FedericoAndrades/LB-IOT"
       },
-      "platforms":
-      [
+      "platforms": [
         {
           "name": "IOT Boards SAMD21",
           "architecture": "samd",
@@ -19,17 +17,19 @@
           "url": "https://github.com/FedericoAndrades/LB-IOT/raw/main/release/SAMD21-0.0.1.zip",
           "archiveFileName": "SAMD21-0.0.1.zip",
           "checksum": "SHA-256:cb7e64efeacbd5c2ba919a47fc689536611f0c05e968068c98c97b8dcebcb618",
+          "help": {
+            "online": ""
+          },
           "size": "1",
           "boards": [
             {
-              "name": "=IOT in Motion - LB I vs.2"
+              "name": "IOT in Motion - LB I vs.2"
             },
             {
               "name": "IOT in Motion - LB I vs.3"
-            },
+            }
           ],
-          "toolsDependencies":
-          [
+          "toolsDependencies": [
             {
               "packager": "arduino",
               "name": "arm-none-eabi-gcc",
