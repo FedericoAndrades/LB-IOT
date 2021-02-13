@@ -47,7 +47,48 @@
               "version": "4.0.0-atmel"
             }
           ]
+        },
+        {
+          "name": "IOT Boards SAMD21",
+          "architecture": "samd",
+          "version": "0.0.2",
+          "category": "Contributed",
+          "url": "https://github.com/FedericoAndrades/LB-IOT/raw/main/release/SAMD21-0.0.2.zip",
+          "archiveFileName": "SAMD21-0.0.2.zip",
+          "checksum": "SHA-256:4889c24e4bc5095523fcb857dd75ced482089eb13826f83190c3e3276852a0b3",
+          "size": "1",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {"name": "IOT in Motion - LB I vs.2"},
+            {"name": "IOT in Motion - LB I vs.3"},
+            {"name": "IOT in Motion - LB II vs.3.1"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.6.1-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.0.0-atmel"
+            }
+          ]
         }
+
       ],
       "tools":
       [
